@@ -1,0 +1,5 @@
+docker/data/prometheus/data/*
+!docker/data/prometheus/data/dummy
+
+docker/data/grafana/*
+!docker/data/grafana/dummy
