@@ -3,10 +3,10 @@ prometheus-grafana-test
 
 A simple example for a Prometheus and Grafana Monitoring setup with an example spring boot backend exposing metrics.
 
-docker/docker-compose.yml
+`docker/docker-compose.yml`
 	* starts prometheus and grafana
 
-docker/data/
+`docker/data/`
 	* contains data for grafana and prometheus
 
 References:
